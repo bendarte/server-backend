@@ -1,6 +1,5 @@
 # Bendarte - Backend Server.
 
-![project_structure](https://github-production-user-asset-6210df.s3.amazonaws.com/143492796/302132285-4aaa3f7c-ea67-4a1e-b774-282afa9a9c24.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240209T171245Z&X-Amz-Expires=300&X-Amz-Signature=eec3a4f4cb53fdf5d091bc183ef9953abfb418c47a65677d30f67b6a6ad26587&X-Amz-SignedHeaders=host&actor_id=143505763&key_id=0&repo_id=744033747)
 
 ## Run Complete Project:
 
